@@ -48,7 +48,6 @@ function Hero() {
             <br />
             <span className='mb-1.5 inline-block rounded-full bg-gray-600/50 px-3 py-1.5 text-sm'>Open for work</span>
             <br />
-            <br />
             <h1 className='text-white/40 text-5xl font-black'>Hi, I am</h1>
             <h1 className='max-w-3xl text-5xl bg-graident-to-br from-white to-gray-400 bg-clip-text font-black leading-tight 
              md:text-5xl '>Hafeez Baig</h1>
