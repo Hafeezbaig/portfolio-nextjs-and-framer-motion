@@ -18,7 +18,7 @@ function Contact() {
                 initial={{ opacity: 0, x: -20 }}
                 whileInView={{ opacity: 1, x: 0 }}
                 transition={{ duration: 0.6, delay: 0.2 }}
-                className='text-5xl sm:text-7xl font-bold text-gray-300 pl-4 sm:pl-4'
+                className='text-5xl sm:text-7xl font-bold text-gray-300 pl-5 sm:pl-4'
                 >
                     Get in <span className='text-purple-500'>touch</span>
                 </motion.h2>
