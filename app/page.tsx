@@ -2,6 +2,7 @@ import Contact from "@/components/Contact";
 import Footer from "@/components/Footer";
 import Hero from "@/components/Hero";
 import KeyMetrics from "@/components/KeyMetrics";
+import LogoAnimation from "@/components/LogoAnimation";
 import Navbar from "@/components/Navbar";
 import Projects from "@/components/Projects";
 import Services from "@/components/Services";
@@ -15,6 +16,7 @@ export default function Home() {
     <Projects />
     <Services />
     <KeyMetrics />
+    <LogoAnimation />
     <Contact />
     <Footer />
     </>
