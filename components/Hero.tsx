@@ -72,7 +72,7 @@ function Hero() {
                 <br />
 
         
-        <p className='my-6 max-w-xl text-center'>Full Stack Web Developer</p>
+        <p className='my-6 max-w-xl text-center'>Expertise in AWS, Azure, and GCP, specializing in Full Stack, DevOps and Cybersecurity. Passionate about Generative AI and Large Language Models (LLMs).</p>
 
         <motion.button
         style={{
